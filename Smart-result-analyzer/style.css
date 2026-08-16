@@ -1,0 +1,43 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#1e1e1e;
+}
+.container{
+    background-color:#ccc;
+    padding:30px;
+    border-radius: 10px;
+    text-align: center;
+    width: 320px;
+}
+#marks{
+    width: 250px;
+    border-radius: 10px;
+    padding:10px;
+    margin: 12px;
+}
+
+button{
+padding: 10px;
+cursor: pointer;
+border-radius: 10px;
+background-color: blue;
+color: white;
+text-decoration: none;
+}
+
+#progress{
+    width:100%;
+    height: 15px;
+    border-radius: 10px;
+    background-color: #ddd;
+    margin-top:20px;
+}
+#bar{
+    height: 100%;
+    width: 0;
+    background-color: green;
+    border-radius: 10px;
+}

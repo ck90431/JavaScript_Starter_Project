@@ -1,0 +1,30 @@
+body{
+    background-color: #181818;
+    display:flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+h1{
+    color:white;
+    text-align: center;
+}
+
+button{
+    width:100px;
+    height:50px;
+    border-radius:10px;
+    margin:10px;
+}
+
+#yellow{
+    background-color: yellow;
+}
+#pink{
+    background-color: pink;
+}
+#green{
+    background-color: green;
+}
+#red{
+    background-color: red;
+}
