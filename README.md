@@ -100,11 +100,11 @@ A JavaScript project for formatting and manipulating text.
 
 🔗 **Live Demo:** [View Smart Text Formatter](https://ck90431.github.io/JavaScript_Starter_Project/Smart-text-formater/)
 
----
- ### Project 09 — 🌦️ Weather App
+
+### Project 09 — 🌦️ Weather App
 
 A weather application that fetches real-time weather information for a searched city using the OpenWeather API.
 
-🔗 **Live Demo:**  
-https://ck90431.github.io/JavaScript_Starter_Project/Weather-App/
+🔗 **Live Demo:** [View Weather App](https://ck90431.github.io/JavaScript_Starter_Project/Weather-app/)
 
+---
