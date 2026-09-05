@@ -108,29 +108,3 @@ A weather application that fetches real-time weather information for a searched 
 🔗 **Live Demo:**  
 https://ck90431.github.io/JavaScript_Starter_Project/Weather-App/
 
-**Features:**
-- Search Weather by City
-- Display Current Temperature
-- Display City Name
-- Display Humidity
-- Display Wind Speed
-- Dynamic Weather Icons
-- Real-Time Weather Data
-- Responsive Design
-
-**API Used:**
-- OpenWeather API
-
-**Concepts Used:**
-- Fetch API
-- API Integration
-- `async/await`
-- Promises
-- JSON
-- DOM Manipulation
-- Event Listeners
-- Template Literals
-- Objects
-- Arrays
-- Conditional Statements
-- Dynamic Image Changes
